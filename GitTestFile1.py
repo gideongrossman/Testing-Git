@@ -1,1 +1,1 @@
-print '3s'
+print '2s'
