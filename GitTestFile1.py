@@ -1,1 +1,1 @@
-print 'x'
+print '3'
