@@ -1,1 +1,1 @@
-print "Seattle"
+print "Cape Town"
